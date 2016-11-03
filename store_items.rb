@@ -1,4 +1,4 @@
-module Actualize
+module StoreFront
   class Store_items
 
     attr_accessor :color, :price, :area
