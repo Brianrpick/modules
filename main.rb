@@ -1,4 +1,4 @@
-require "./Store_items.rb"
+require "./store_items.rb"
 require "./food.rb"
 
 
