@@ -1,4 +1,4 @@
-#This time, use a module instead of inheritance to DRY up the code.
+
 module Main
 
   def brake
